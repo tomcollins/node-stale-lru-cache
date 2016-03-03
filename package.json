@@ -1,0 +1,16 @@
+{
+  "name": "stale-lru-cache",
+  "description": "A wrapper for lru-cache that allows entries to be returned while stale.",
+  "version": "0.0.1",
+  "author": "Tom Collins <tom@tomcollins.co.uk>",
+  "keywords": [
+    "cache"
+  ],
+  "scripts": {},
+  "main": "lib/stale-lru-cache.js",
+  "repository": "git://github.com/tomcollins/node-stale-lru-cache.git",
+  "devDependencies": {},
+  "dependencies": {
+    "lru-cache": "^4.0.0"
+  }
+}
